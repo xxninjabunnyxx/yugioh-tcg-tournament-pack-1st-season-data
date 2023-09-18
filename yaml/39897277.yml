@@ -1,0 +1,34 @@
+---
+id: 39897277
+name: Elf's Light
+type: Spell Card
+frameType: spell
+desc: A LIGHT monster equipped with this card increases its ATK by 400 points and
+  decreases its DEF by 200 points.
+race: Equip
+card_sets:
+- set_name: 'Tournament Pack: 1st Season'
+  set_code: TP1-006
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '148.23'
+- set_name: 'Tournament Pack: 1st Season'
+  set_code: TP1-E006
+  set_rarity: Rare
+  set_rarity_code: "(R)"
+  set_price: '92.95'
+card_images:
+- id: 39897277
+  image_url: https://images.ygoprodeck.com/images/cards/39897277.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/39897277.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/39897277.jpg
+- id: 39897277
+  image_url: https://images.ygoprodeck.com/images/cards/39897277.jpg
+  image_url_small: https://images.ygoprodeck.com/images/cards_small/39897277.jpg
+  image_url_cropped: https://images.ygoprodeck.com/images/cards_cropped/39897277.jpg
+card_prices:
+- cardmarket_price: '16.76'
+  tcgplayer_price: '96.65'
+  ebay_price: '169.97'
+  amazon_price: '0.69'
+  coolstuffinc_price: '179.99'
